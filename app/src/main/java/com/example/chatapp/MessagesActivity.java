@@ -101,4 +101,8 @@ public class MessagesActivity extends AppCompatActivity {
             displayMessage.append(chatUserName + ":" + chatMessage + "\n \n");
         }
     }
+
+    private void donothing(){
+        System.out.println("jjjjj");
+    }
 }
